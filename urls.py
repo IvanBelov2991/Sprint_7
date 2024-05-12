@@ -1,0 +1,6 @@
+BASE_URL = 'https://qa-scooter.praktikum-services.ru'
+AUTH_COURIER_ENDPOINT = '/api/v1/courier/login'
+CREATE_COURIER_ENDPOINT = '/api/v1/courier'
+DELETE_COURIER_ENDPOINT = '/api/v1/courier/'
+CREATE_ORDER_ENDPOINT = '/api/v1/orders'
+GET_ORDER_ENDPOINT = '/api/v1/orders'
